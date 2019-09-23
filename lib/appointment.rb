@@ -15,9 +15,9 @@ class Appointment
     @@all
   end
 
-  def patient
-    @date
-  end
+  # def patient
+  #   @date
+  # end
 
 
 end
