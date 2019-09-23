@@ -16,7 +16,7 @@ class Appointment
   end
 
   # def patient
-  #   @date
+  #   @all.
   # end
 
 
